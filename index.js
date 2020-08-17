@@ -1,5 +1,7 @@
+const deskripsi = "hay ini aku deskripsi";
+
 function welcome() {
-  console.log("hellow world");
+  console.log(`deksripsi ${deskripsi}`);
 }
 
 welcome();
