@@ -1,5 +1,7 @@
+const helloWorld = "hello world";
+
 function welcome() {
-  console.log("hellow world");
+  console.log(helloWorld);
 }
 
 welcome();
