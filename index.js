@@ -1,7 +1,7 @@
-const helloWorld = "hello world";
+const deskripsi = "hay ini aku deskripsi";
 
 function welcome() {
-  console.log(helloWorld);
+  console.log(`deksripsi ${deskripsi}`);
 }
 
 welcome();
